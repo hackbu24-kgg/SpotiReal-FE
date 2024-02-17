@@ -1,0 +1,13 @@
+.post{
+    border: solid;
+    border-radius: 4mm;
+    border-color: #B0B0B0;
+}
+
+.albumcover{
+    max-width: 100px;
+    height: auto;
+    border-radius: 4mm;
+    display:inline-block;
+    text-align: right;
+}
