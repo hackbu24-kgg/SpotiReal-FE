@@ -2,12 +2,22 @@
     border: solid;
     border-radius: 4mm;
     border-color: #B0B0B0;
+    overflow: auto;
 }
 
 .albumcover{
     max-width: 100px;
     height: auto;
     border-radius: 4mm;
-    display:inline-block;
-    text-align: right;
+    float: right;
+    margin: 4px;
+    margin-left: 14px;
+    border-radius: 3mm
+}
+
+.username{
+    text-align: left;
+    font-size:small;
+    margin: 4px;
+    margin-left:16px;
 }
